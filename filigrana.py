@@ -673,7 +673,7 @@ class PdfSporcaApp(TkinterDnD.Tk):
 
         rs = ttk.Frame(oof); rs.pack(fill=X, pady=2)
         _lbl(rs,"Suffisso:")
-        self.suffisso_var = StringVar(value='_watermarked')
+        self.suffisso_var = StringVar(value='_s')
         ttk.Entry(rs, textvariable=self.suffisso_var, width=16).pack(side=LEFT,padx=5)
 
         ro = ttk.Frame(oof); ro.pack(fill=X, pady=2)
