@@ -1,0 +1,1 @@
+Applicazione grafica per applicare una filigrana "sporca" a PDF multipli, rasterizzare con rotazioni casuali, applicare effetti da scansione e salvare il risultato. Supporta drag & drop e salvataggio configurazione.
